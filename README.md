@@ -50,7 +50,7 @@ In this project, the goal was to create data samples that augment the existing d
 
 ## Project
 
-Used a the tool, **Mostly.ai**, to:
+Used the tool, **Mostly.ai**, to:
 - Generate synthetic data samples.
 - Transfer learning on a given dataset.
 - Augment an existing dataset (in this case, an insurance dataset) with synthetic data.
