@@ -42,15 +42,15 @@ The goal was to explore how generative AI can be used for **synthetic data gener
 - **DCR Share**: 52.4% (50.0%)
 - **NNDR Ratio**: 1.123 (1.000)
 
-## Introduction to Generative AI
+## Generative AI
 
 One of the key advantages of generative AI is its ability to create **realistic synthetic data**. The synthetic data is generated when a pretrained generative model responds to a prompt, creates new data samples, or transfers learning to a given dataset. 
 
 In this project, the goal was to create data samples that augment the existing dataset while maintaining the **statistical distribution** and **interpretability** of the original dataset.
 
-## Learning Objectives
+## Project
 
-In this lab, you will learn how to use a popular tool, **Mostly.ai**, to:
+Used a the tool, **Mostly.ai**, to:
 - Generate synthetic data samples.
 - Transfer learning on a given dataset.
 - Augment an existing dataset (in this case, an insurance dataset) with synthetic data.
