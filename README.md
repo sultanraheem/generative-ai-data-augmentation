@@ -1,7 +1,7 @@
 # Generative AI for Data Generation and Augmentation
 
 ## Overview
-This project was part of the IBM **Generative AI for Data Engineers** lab. The primary focus was on leveraging the AI-assisted ability to generate realistic synthetic data. The synthetic data is generated when a pretrained generative model responds to either a prompt, create new data samples, or transfers learns on a given data set. In addition, it creates samples that can augment the existing data set while maintaining the statistical distribution and interpretability of the data set.
+Leveraging the AI-assisted ability to generate realistic synthetic data. The synthetic data is generated when a pretrained generative model responds to either a prompt, create new data samples, or transfers learns on a given data set. In addition, it creates samples that can augment the existing data set while maintaining the statistical distribution and interpretability of the data set.
 
 Trained data had an overall accuracy of 88.3% (91.1% with some optimizations).
 
