@@ -55,9 +55,9 @@ In this lab, you will learn how to use a popular tool, **Mostly.ai**, to:
 
 ## Dataset
 
-The dataset used in this project includes **insurance records** and is available at the following link:
+The dataset used in this project includes **insurance records**:
 
-- [Insurance Dataset](#)
+Insurance Dataset.csv
 
 This dataset is a cleaned-up version of the **Medical Insurance Price Prediction dataset**, available under the CC0 1.0 Universal License on **Kaggle**.
 
