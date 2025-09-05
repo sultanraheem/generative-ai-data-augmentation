@@ -3,6 +3,8 @@
 ## Overview
 Leveraging the AI-assisted ability to generate realistic synthetic data. The synthetic data is generated when a pretrained generative model responds to either a prompt, create new data samples, or transfers learns on a given data set. In addition, it creates samples that can augment the existing data set while maintaining the statistical distribution and interpretability of the data set.
 
+The dataset used is a Synthetic Dataset of a publicly available dataset under the CC BY 4.0 license. No proprietary data was used.
+
 Trained data had an overall accuracy of 88.3% (91.1% with some optimizations).
 
 <img width="1217" height="277" alt="image" src="https://github.com/user-attachments/assets/6f1c0a44-8e39-4c84-92c4-8ab61a733726" />
